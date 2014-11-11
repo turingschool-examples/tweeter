@@ -77,6 +77,9 @@ GEM
     tilt (1.4.1)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    yaml_db (0.3.0)
+      rails (>= 3.0, < 4.3)
+      rake (>= 0.8.7)
 
 PLATFORMS
   ruby
@@ -86,3 +89,4 @@ DEPENDENCIES
   rails (= 4.1.6)
   rails-api
   sqlite3
+  yaml_db

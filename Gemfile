@@ -6,4 +6,5 @@ gem 'sqlite3'
 
 group :development do
   gem 'faker'
+  gem 'yaml_db'
 end
