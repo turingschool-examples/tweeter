@@ -61,7 +61,7 @@ GEM
       activesupport (= 4.1.6)
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
-    rake (10.3.2)
+    rake (10.4.2)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -88,5 +88,6 @@ DEPENDENCIES
   faker
   rails (= 4.1.6)
   rails-api
+  rake (~> 10.4)
   sqlite3
   yaml_db
